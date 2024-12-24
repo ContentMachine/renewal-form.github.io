@@ -1,0 +1,10 @@
+number_plate,owner_name,owner_email,owner_phone,registration_date,vehicle_make,vehicle_model,vehicle_year,chassis_number,engine_number,insurance_type,license_expiration_date,roadworthiness_expiration_date
+FST482GT,GIWA MUHAMMED FARID,faridgiwa@gmail.com,8189085000,2023-01-27,Toyota,Camry,2007,4T1BE46K07U524709,NULL,Private,NULL,NULL
+GGE585DZ,Eniola Martins,eniolma@yahoo.com,8083604000,2023-06-16,Nissan,Sunny,2009,NULL,NULL,NULL,NULL,NULL
+AKD507GG,Babajide Ibrahim,Jidebrhm@live.co.uk,8168463000,2023-06-20,Lexus,RX350,2010,2T2BA1DA6AC070779,NULL,Commercial,NULL,NULL
+MEK668XB,OLOWOFELA OLANIYI EBENEZER,niyifela2006@yahoo.com,8034590000,2023-08-28,Mercedes,Sprinter,2007,WDB9046632R243397,NULL,Private,NULL,NULL
+AGL791HD,Onward 07 Resources Enterprises,sogunshina@gmail.com,,2023-09-01,Mercedes,300 E,1989,WDB1240901F060890,NULL,Commercial,NULL,NULL
+APP101FR,Bola Adedeji,david@wdwltd.com,8033097478,2023-09-04,Toyota,Venza,2007,NULL,NULL,NULL,NULL,NULL
+ABC989GY,OLABAMIJI SHAKIRU OPEYEMI,sakur2000@yahoo.com,8064276444,2023-09-20,Mazda,6,2004,1YVFP8DC545N41739,NULL,NULL,NULL,NULL
+EKY634BH,IFEDAYO GBAJABIAMILA,fdygbaja@yahoo.co.uk,8058819593,2023-09-26,Toyota,Corolla,2012,AHTLC58003033518,NULL,NULL,NULL,NULL
+LSD435GL,David Williams,david@wdwltd.com,8098016664,2023-09-29,Toyota,4Runner,2004,JTEBU14R340043020,NULL,NULL,NULL,NULL
